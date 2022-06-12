@@ -1,0 +1,63 @@
+th{
+    border: 2px solid;
+    background-color: greenyellow;
+}
+form{
+    background-color: blue;
+}
+img{
+    width: 300px;
+}
+td{
+    background-color: darkkhaki;
+    color: crimson;
+}
+th{
+    font-family: Arial, Helvetica, sans-serif;
+}
+table, th, td{
+    border: 2px solid;
+}
+.landing{
+    color: rgb(255, 0, 0);
+    text-decoration:none;
+}
+.firstid{
+    background-color: aqua;
+}
+#firstaid{
+    font-weight: 900;
+}
+.pos_1{
+    width: 50px;
+    border-radius: 50px;
+    position: fixed;
+    bottom: 150px;
+    left: 200px;
+}
+.lastinp{
+    width: 400px;
+    height: 30px;
+    position: relative;
+    padding-left: 30px;
+}
+.abs{
+    position: absolute;
+    width: 15px;
+    z-index: 2;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.basic{
+    background-color: darkcyan;
+    height: 200px;
+    position: relative;
+}
+.basic_2{
+    background-color: darkorange;
+    height: 40px;
+    width: 50px;
+    position: absolute;
+    bottom: 65%;
+
+}

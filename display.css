@@ -1,0 +1,30 @@
+body{
+    background-color: blueviolet;
+}
+/* P{
+    background-color: bisque;
+    display: inline;
+} */
+/* OR */
+
+/* .first_flex{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    justify-content: space-between;
+} */
+
+/* FOR GRID */
+p{
+    background-color: chartreuse;
+}
+
+.first_flex{
+    display: grid;
+    grid-template-columns:  repeat( 4, 1fr);
+    grid-template-rows: repeat( 2, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 8px;
+
+}
