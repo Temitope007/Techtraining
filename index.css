@@ -59,5 +59,7 @@ table, th, td{
     width: 50px;
     position: absolute;
     bottom: 65%;
-
+}
+body{
+    background-image: url(images/5.jpeg);
 }
