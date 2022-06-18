@@ -18,3 +18,10 @@ div{
     position: relative;
     bottom: 30px;
 }
+div{
+    background-color: cyan;
+    width: 20%;
+    height: 42px;
+    position: relative;
+    bottom: 30px;
+}
